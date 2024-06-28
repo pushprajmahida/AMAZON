@@ -1,3 +1,3 @@
-Frontend Work of Amazon using HTML & CSS
+Frontend Work of Amazon Web-page using HTML & CSS
 <br>
 Author - Pushpraj Mahida
